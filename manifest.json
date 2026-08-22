@@ -1,0 +1,8 @@
+{
+  "name": "Medivin App",
+  "short_name": "Medivin",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d9488"
+}
